@@ -2,6 +2,10 @@ body {
  background-color:  #99ccff;
  font-family: Arial, Helvetica, sans-serif;
 }
+p.answer {
+ display: none;
+}
+
 p.one {
   border-style: solid;
   border-color: black;
