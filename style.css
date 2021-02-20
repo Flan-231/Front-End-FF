@@ -66,3 +66,28 @@ img {
   background: #777;
   padding: 20px;
 }
+
+h1 {text-align: center ;}
+h2 {text-align: center;}
+h3{ text-align: center;}
+
+
+.myDiv {
+  border: 5px outset purple;
+  background-color: lightblue;    
+  text-align: center;
+  height: auto; 
+  width: 500px; 
+  margin: auto;
+}
+
+
+
+.myDiv2 {
+  border: 5px outset purple;
+  background-color: lightgreen;    
+  text-align: center;
+  height: auto; 
+  width: 500px; 
+  margin: auto;
+}
